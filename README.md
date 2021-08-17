@@ -19,6 +19,7 @@ The following list is for visual studio 2019
 <br>Trailing WhiteSpace Visualizer - show trailing whitespaces and you can remove the trailing spaces as you need</br>
 
 ## Other Useful Tool
+<br>Surround Selection - like vim surround on visual studio code</br>
 <br>CodeMaid - find file in solution explorer</br>
 <br>Auto Save File - save files every 5 seconds</br>
 <br>Toggle Comment - comment and uncomment of selected lines of code</br>
